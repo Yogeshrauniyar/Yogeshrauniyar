@@ -8,7 +8,7 @@ A passionate AI/ML enthusiast and software developer committed to building intel
 
 - 🌱 I’m currently learning **Deep learning with TensorFlow and PyTorch, natural language processing, and advanced computer vision techniques**
 
-- 👨‍💻 All of my projects are available at [yogeshrauniyar.com.np]
+- 👨‍💻 All of my projects are available at (yogeshrauniyar.com.np)
 
 - 💬 Ask me about **large language models (LLMs), generative AI, transformer architectures, prompt engineering, and AI ethics**
 
